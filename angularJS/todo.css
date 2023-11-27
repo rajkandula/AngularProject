@@ -1,0 +1,8 @@
+.red {
+  color: red;
+}
+
+#menu-bar {
+  display: flex;
+  background-color: aqua;
+}
